@@ -1,1 +1,22 @@
 
+.tooltiptext{
+    background-color: red;
+    padding: 5px;
+    border-radius: 3px;
+}
+.div1{
+    position: fixed;
+    top: 40px;
+}
+.div2{
+    position: fixed;
+    top: 90px;
+}
+.text1{
+    position: fixed;
+    top: 10px;
+}
+.text2{
+    position: fixed;
+    top: 60px;
+}
